@@ -41,6 +41,14 @@ body {
     --sidebar-accent-foreground: 240 5.9% 10%;
     --sidebar-border: 220 13% 91%;
     --sidebar-ring: 217.2 91.2% 59.8%;
+
+    /* Updated theme colors */
+    --background: 220 14% 96%;  /* Light grey (#F5F5F5) */
+    --foreground: 220 14% 20%;
+    --accent: 164 59% 42%;      /* Teal (#20c997) */
+    --accent-foreground: 0 0% 100%;
+    --primary: 210 44% 17%;   /* Dark blue (#2C3E50) */
+    --primary-foreground: 0 0% 100%;
   }
   .dark {
     --background: 0 0% 3.9%;
